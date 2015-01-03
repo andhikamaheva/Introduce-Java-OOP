@@ -12,9 +12,6 @@ HOW TO START THIS PROJECT: To open file Mind Map JAVA OOP you must using XMind a
 AUTHORS: Andhika Maheva W
 <br/>
 CONTACT	:
-<br/>
-		twitter : @aaaandhika
-<br/>
-		email	: andhikamv18@gmail.com
-<br/>
-		facebook: https://www.facebook.com/andhika.xone
+* twitter : @aaaandhika
+* email	: andhikamv18@gmail.com
+* facebook: https://www.facebook.com/andhika.xone
